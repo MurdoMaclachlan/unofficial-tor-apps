@@ -63,7 +63,7 @@ From its README:
   
 ---
 
-- [GitHub]https://github.com/codingJWilliams/Ploverscript
+- [GitHub](https://github.com/codingJWilliams/Ploverscript)
 
 From its README:
 > Ploverscript is a lightweight Python script that automates the process of transcribing with r/transcribersofreddit.
