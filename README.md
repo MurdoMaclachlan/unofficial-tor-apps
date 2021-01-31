@@ -31,6 +31,20 @@ This project is created to streamline the transcription process, allowing quicke
 
 </details>
 
+<details><summary> Not ToR App Mobile Edition, by /u/DaOverwatchGuy </summary>
+  
+---
+
+- [GitHub](https://github.com/ichbineinNerd/not-tor-app-mobile-edition)
+
+Similar to the website edition of Not ToR App, this streamlines the transcription process for mobile.
+
+*Warning: while it is easier to transcribe on mobile with this app than it is with a non-transcription-focused Reddit app, it is still much harder transcribing on mobile than on desktop/laptop.*
+
+---
+
+</details>
+
 <details><summary> Open Source Caretaker for Reddit (OSCR), by /u/MurdoMaclachlan </summary>
   
 ---
