@@ -99,7 +99,7 @@ Also, a warning from the repository:
 From the original's README:
 > This allows us to transcribe with more ease and get gammas faster, provide image transcriptions for those with vision impairments/ who use text-to-speech software, and those on mobile or with limited data.
 
-The project contains a repository of references and templates for various commonly reposted memes and images. /u/MurdoMaclachlan's fork because the original is no longer maintained and is somewhat out of date.
+The project contains a repository of references and templates for various commonly reposted memes and images. /u/MurdoMaclachlan forked the repository because the original is no longer maintained and is somewhat out of date.
 
 ---
 
