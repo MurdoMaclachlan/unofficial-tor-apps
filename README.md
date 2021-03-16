@@ -1,6 +1,5 @@
 # Unofficial ToR Apps
 A list of unofficial ToR apps and resources.
-https://sites.google.com/view/doesitbreakpirules/
 
 <details><summary> ClaimDoneRemover (CDR), by /u/--B_L_A_N_K-- </summary>  
 
