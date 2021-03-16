@@ -1,6 +1,6 @@
 # Unofficial ToR Apps
 A list of unofficial ToR apps and resources.
-
+https://sites.google.com/view/doesitbreakpirules/
 
 <details><summary> ClaimDoneRemover (CDR), by /u/--B_L_A_N_K-- </summary>  
 
@@ -12,6 +12,16 @@ From its README:
 > Also known as CDRemover or CDR, this program removes "claim" and "done" comments after a period of time. It is designed with r/TranscribersOfReddit transcribers in mind; specifically those who are tired of these comments clogging up their profiles.
 
 *Warning: this program is known to be prone to a bug that can cause the ToR-Stats Discord bot to freeze.*
+
+---
+
+</details>
+
+<details><summary> Does This Post Break PI Rules (DTPBPIR), by /u/DasherPack </summary>  
+
+---
+
+- [Website](https://sites.google.com/view/doesitbreakpirules/)  
 
 ---
 
