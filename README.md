@@ -59,6 +59,7 @@ Similar to the website edition of Not ToR App, this streamlines the transcriptio
 ---
 
 - [GitHub](https://github.com/MurdoMaclachlan/oscr)
+- [PIP package](https://pypi.org/project/oscr/)
 
 From its README:
 > More lovingly known as Oscar, this program removes blacklisted comments after a period of time. It is designed with r/TranscribersOfReddit transcribers in mind; specifically those who are tired of these comments clogging up their profiles, thus the contents of the default blacklist.
