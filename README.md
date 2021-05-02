@@ -1,7 +1,20 @@
 # Unofficial ToR Apps
 A list of unofficial ToR apps and resources.
 
-<details><summary> ClaimDoneRemover (CDR), by /u/--B_L_A_N_K-- </summary>  
+<details><summary> Already Claimed Notifier (ACN), by u/--B_L_A_N_K-- </summary>  
+
+---
+
+- [GitHub](https://github.com/TheodoreHua/AlreadyClaimedNotifier)  
+
+From its README:
+> Also known as ACN, this program sends a notification to the user when it detects a comment reply stating that the post their doing has already been claimed. It is designed with r/TranscribersOfReddit transcribers in mind; specifically those who don't want to summon an angry mod...
+
+---
+
+</details>
+
+<details><summary> ClaimDoneRemover (CDR), by u/--B_L_A_N_K-- </summary>  
 
 ---
 
@@ -16,7 +29,7 @@ From its README:
 
 </details>
 
-<details><summary> Does This Post Break PI Rules (DTPBPIR), by /u/DasherPack </summary>  
+<details><summary> Does This Post Break PI Rules (DTPBPIR), by u/DasherPack </summary>  
 
 ---
 
@@ -26,7 +39,7 @@ From its README:
 
 </details>
 
-<details><summary> Not ToR App (NTA), by /u/ILikePokemonGo101 </summary>
+<details><summary> Not ToR App (NTA), by u/ILikePokemonGo101 </summary>
 
 ---
 
@@ -40,7 +53,7 @@ This project is created to streamline the transcription process, allowing quicke
 
 </details>
 
-<details><summary> Not ToR App Mobile Edition, by /u/DaOverwatchGuy </summary>
+<details><summary> Not ToR App Mobile Edition, by u/DaOverwatchGuy </summary>
   
 ---
 
@@ -54,7 +67,7 @@ Similar to the website edition of Not ToR App, this streamlines the transcriptio
 
 </details>
 
-<details><summary> Open Source Caretaker for Reddit (OSCR), by /u/MurdoMaclachlan </summary>
+<details><summary> Open Source Caretaker for Reddit (OSCR), by u/MurdoMaclachlan </summary>
   
 ---
 
@@ -70,7 +83,7 @@ From its README:
 
 </details>
 
-<details><summary> Platform Chart, by /u/--B_L_A_N_K-- </summary>
+<details><summary> Platform Chart, by u/--B_L_A_N_K-- </summary>
   
 ---
 
@@ -83,7 +96,7 @@ From its README:
 
 </details>
 
-<details><summary> Ploverscript, by /u/voidcraftedgaming </summary>
+<details><summary> Ploverscript, by u/voidcraftedgaming </summary>
   
 ---
 
@@ -99,23 +112,23 @@ Also, a warning from the repository:
 
 </details>
 
-<details><summary> Repost Collection, by /u/voidcraftedgaming and /u/MurdoMaclachlan </summary>
+<details><summary> Repost Collection, by u/voidcraftedgaming and u/MurdoMaclachlan </summary>
   
 ---
 
-- [/u/voidcraftedgaming's original GitHub repository](https://github.com/codingJWilliams/ToR-Repost-Collection)
-- [Fork by /u/MurdoMaclachlan](https://github.com/MurdoMaclachlan/ToR-Repost-Collection)
+- [u/voidcraftedgaming's original GitHub repository](https://github.com/codingJWilliams/ToR-Repost-Collection)
+- [Fork by u/MurdoMaclachlan](https://github.com/MurdoMaclachlan/ToR-Repost-Collection)
 
 From the original's README:
 > This allows us to transcribe with more ease and get gammas faster, provide image transcriptions for those with vision impairments/ who use text-to-speech software, and those on mobile or with limited data.
 
-The project contains a repository of references and templates for various commonly reposted memes and images. /u/MurdoMaclachlan forked the repository because the original is no longer maintained and is somewhat out of date.
+The project contains a repository of references and templates for various commonly reposted memes and images. u/MurdoMaclachlan forked the repository because the original is no longer maintained and is somewhat out of date.
 
 ---
 
 </details>
 
-<details><summary> Stream Overlay, by /u/Tim3303 </summary>
+<details><summary> Stream Overlay, by u/Tim3303 </summary>
   
 ---
 
@@ -128,7 +141,7 @@ Hosted on the same repository as ToR User Stats (see below), this was created wi
 
 </details>
 
-<details><summary> ToR User Stats, by /u/Tim3303 </summary>
+<details><summary> ToR User Stats, by u/Tim3303 </summary>
   
 ---
 
