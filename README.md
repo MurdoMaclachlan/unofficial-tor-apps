@@ -29,6 +29,23 @@ From its README:
 
 </details>
 
+<details><summary> color-id, by u/Tim3303 </summary>  
+
+---
+
+- [Wesbite](https://timjentzsch.github.io/color-id/)
+- [GitHub](https://github.com/TimJentzsch/color-id)  
+
+From its README:
+> A tool to determine the names of colors.
+
+An especially useful project for those with colour deficiency.
+
+---
+
+</details>
+
+
 <details><summary> Does This Post Break PI Rules (DTPBPIR), by u/DasherPack </summary>  
 
 ---
