@@ -29,6 +29,21 @@ From its README:
 
 </details>
 
+<details><summary> Clone Finder (CF), by u/MurdoMaclachlan </summary>  
+
+---
+
+- [GitHub](https://github.com/MurdoMaclachlan/clone-finder)  
+
+From its README:
+> This small tool finds, notifies and documents cloned posts in r/TranscribersOfReddit queue. These clones arise as a result of Reddit sending an error response despite there actually being no error, causing the bot to attempt to post again and resulting in a clone appearing.
+
+*Note: This program is probably not very useful for people who are not moderators, as they can only report clones, not remove them.*
+
+---
+
+</details>
+
 <details><summary> color-id, by u/Tim3303 </summary>  
 
 ---
