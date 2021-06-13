@@ -14,6 +14,20 @@ From its README:
 
 </details>
 
+<details><summary> Auto Done Replier (ADR, TADR), by u/MurdoMaclachlan </summary>  
+
+---
+
+- [GitHub](https://github.com/MurdoMaclachlan/tadr)  
+- [PyPi](https://pypi.org/project/tadr/)
+
+From its README:
+> Also known as TADR, this program monitors the Reddit inbox of its user and detects comment from the r/TranscribersOfReddit bot notifying them that it could not find their transcription.
+
+---
+
+</details>
+
 <details><summary> ClaimDoneRemover (CDR), by u/--B_L_A_N_K-- </summary>  
 
 ---
@@ -104,7 +118,7 @@ Similar to the website edition of Not ToR App, this streamlines the transcriptio
 ---
 
 - [GitHub](https://github.com/MurdoMaclachlan/oscr)
-- [PIP package](https://pypi.org/project/oscr/)
+- [PyPi](https://pypi.org/project/oscr/)
 
 From its README:
 > More lovingly known as Oscar, this program removes blacklisted comments after a period of time. It is designed with r/TranscribersOfReddit transcribers in mind; specifically those who are tired of these comments clogging up their profiles, thus the contents of the default blacklist.
