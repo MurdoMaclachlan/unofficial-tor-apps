@@ -1,16 +1,7 @@
 # Unofficial ToR Apps
 A list of unofficial ToR apps and resources.
 
-<details><summary> Already Claimed Notifier (ACN), by u/--B_L_A_N_K-- </summary>  
-
----
-
-- [GitHub](https://github.com/TheodoreHua/AlreadyClaimedNotifier)  
-
-From its README:
-> Also known as ACN, this program sends a notification to the user when it detects a comment reply stating that the post their doing has already been claimed. It is designed with r/TranscribersOfReddit transcribers in mind; specifically those who don't want to summon an angry mod...
-
----
+*Note that "Already Claimed Notifier" was re-written and re-named. See "ToR Inbox Manager", farther down this list.*
 
 </details>
 
@@ -182,6 +173,19 @@ The project contains a repository of references and templates for various common
 - [GitHub](https://github.com/TimJentzsch/tor-user-stats)
 
 Hosted on the same repository as ToR User Stats (see below), this was created with the intent of making an easy-to-use, stats-related overlay for transcribers who stream their transcriptions, but with a little tweaking can also be used a desktop applet to help you track your stats as you transcribe.
+
+---
+
+</details>
+
+<details><summary> ToR Inbox Manager, by u/--B_L_A_N_K-- </summary>
+  
+---
+  
+- [GitHub](https://github.com/TheodoreHua/AlreadyClaimedNotifier)  
+
+From its README:
+> Also known as ACN, this program sends a notification to the user when it detects a comment reply stating that the post their doing has already been claimed. It is designed with r/TranscribersOfReddit transcribers in mind; specifically those who don't want to summon an angry mod...
 
 ---
 
