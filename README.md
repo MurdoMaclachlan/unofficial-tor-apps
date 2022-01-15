@@ -34,6 +34,18 @@ From its README:
 
 </details>
 
+<details><summary> Clear the Queue Counter, by u/--B_L_A_N_K-- </summary>  
+
+---
+
+- [Website](https://www.theodorehua.dev/app/clear-the-queue/countdown)
+
+Provides a counter for how many posts in the queue are Unclaimed, In Progress and Completed, as well as differences with the last refresh. Refreshes every 5 minutes.
+
+---
+
+</details>
+
 <details><summary> Clone Finder (CF), by u/MurdoMaclachlan </summary>  
 
 ---
