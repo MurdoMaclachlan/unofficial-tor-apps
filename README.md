@@ -165,8 +165,8 @@ Also, a warning from the repository:
   
 ---
 
+- [Main collection](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/wiki)
 - [u/voidcraftedgaming's original GitHub repository](https://github.com/codingJWilliams/ToR-Repost-Collection)
-- [Fork by u/MurdoMaclachlan](https://github.com/MurdoMaclachlan/ToR-Repost-Collection)
 
 From the original's README:
 > This allows us to transcribe with more ease and get gammas faster, provide image transcriptions for those with vision impairments/ who use text-to-speech software, and those on mobile or with limited data.
