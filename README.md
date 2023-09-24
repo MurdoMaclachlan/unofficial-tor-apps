@@ -65,7 +65,7 @@ From its README:
 
 ---
 
-- [Wesbite](https://timjentzsch.github.io/color-id/)
+- [Website](https://timjentzsch.github.io/color-id/)
 - [GitHub](https://github.com/TimJentzsch/color-id)  
 
 From its README:
